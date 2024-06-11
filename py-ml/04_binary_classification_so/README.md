@@ -1,4 +1,4 @@
-# Uisng cython to build .so
+# Using cython to build .so
 
 In case you use virtual environment from project root directory, e.g. in directory `venv`:  
 ```sh
